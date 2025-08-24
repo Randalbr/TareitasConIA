@@ -13,8 +13,10 @@ Tener una API Key de Gemini (Google AI Studio).
 
 ✅ Instalación y ejecución ✅
 
-Instalar dependencias:
+Instalar dependencias: 
+
 npm install
+
 npm install @google/genai
 
 =================================
@@ -43,6 +45,8 @@ Por defecto correrá en: http://localhost:4000
 Entra en la carpeta del frontend: cd ../frontend
 
 Instala dependencias: npm install
+
+npm install @google/genai (Por asi acaso)
 
 
 Crea un archivo .env en frontend/ con: VITE_GEMINI_KEY=La_key_de gemini
