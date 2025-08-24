@@ -15,6 +15,7 @@ Tener una API Key de Gemini (Google AI Studio).
 
 Instalar dependencias:
 npm install
+npm install @google/genai
 
 =================================
 
